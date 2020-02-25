@@ -1,22 +1,22 @@
-Station,Latitude,Longitude,AccidentNumber,accidentNumber2,Top1,Top2,Top3
-Aéroport Ch.de Gaulle 2,49.004265,2.571266,579,76,,,
-Aéroport Ch.de Gaulle 1,49.014253,2.541933,83,83,,,
-Parc des Expositions,48.973517,2.514068,18,78,,,
-Villepinte,48.962871,2.512255,3,79,,,
-Sevran Beaudottes,48.947629,2.524652,7,70,,,
-Mitry-Claye,48.975771,2.642473,440,72,,,
-Villeparisis Mitry-le-Neuf,48.953257,2.602689,1,74,,,
-Vert-Galant,48.944589,2.566702,8,73,,,
-Sevran-Livry,48.936056,2.534827,3,73,,,
-Aulnay-sous-Bois,48.931896,2.494419,146,89,,,
-Le Blanc-Mesnil,48.932411,2.477417,17,84,,,
-Drancy,48.93292,2.455105,22,87,,,
-Le Bourget,48.930912,2.425708,33,87,,,
-La Courneuve-Aubervilliers,48.924183,2.384578,15,86,,,
-La Plaine-Stade de France,48.918119,2.362398,47,92,,,
+﻿Station,Latitude,Longitude,AccidentNumber,accidentNumber2,Top1,Top2,Top3
+Aéroport Ch.de Gaulle 2,49.004265,2.571266,579,76,Un train en panne,Un malaise voyageur,Une panne de signalisation
+Aéroport Ch.de Gaulle 1,49.014253,2.541933,83,83,Un malaise voyageur,Un train en panne,Une panne de signalisation
+Parc des Expositions,48.973517,2.514068,18,78,Un malaise voyageur,Un train en panne,Un accident grave de personne
+Villepinte,48.962871,2.512255,3,79,Un train en panne,Un malaise voyageur,Une panne de signalisation
+Sevran Beaudottes,48.947629,2.524652,7,70,Un train en panne,Un malaise voyageur,Une panne de signalisation
+Mitry-Claye,48.975771,2.642473,440,72,Un mouvement social,Un train en panne,Un malaise voyageur
+Villeparisis Mitry-le-Neuf,48.953257,2.602689,1,74,Un train en panne,Un malaise voyageur,Une panne de signalisation
+Vert-Galant,48.944589,2.566702,8,73,Un train en panne,Une panne de signalisation,Un incident technique
+Sevran-Livry,48.936056,2.534827,3,73,Un train en panne,Un malaise voyageur,Une panne de signalisation
+Aulnay-sous-Bois,48.931896,2.494419,146,89,Un train en panne,Un incident affectant la voie,Une panne de signalisation
+Le Blanc-Mesnil,48.932411,2.477417,17,84,Un train en panne,Une panne de signalisation,Un accident de personne
+Drancy,48.93292,2.455105,22,87,Un train en panne,Une panne de signalisation,Une panne de signalisation
+Le Bourget,48.930912,2.425708,33,87,Un train en panne,Une panne de signalisation,Un accident de personne
+La Courneuve-Aubervilliers,48.924183,2.384578,15,86,Un train en panne,Une panne de signalisation,Un bagage oublié
+La Plaine-Stade de France,48.918119,2.362398,47,92,Une panne de signalisation,Un train en panne,Un incident affectant la voie
 Gare du Nord,48.880941,2.355218,329,113,Un malaise voyageur,Une panne de signalisation,Un train en panne
-Châtelet–Les Halles,48.862047,2.347148,153,94,,,
-Saint-Michel-Notre-Dame,48.853548,2.344739,61,100,,,
+Châtelet–Les Halles,48.862047,2.347148,153,94,Une panne de signalisation,Un train en panne,Un incident d'exploitation
+Saint-Michel-Notre-Dame,48.853548,2.344739,61,100,Un train en panne,Mesure de sécurité,Travaux
 Luxembourg,48.844236,2.339272,44,93,,,
 Port-Royal,48.839815,2.337026,37,95,,,
 Denfert-Rochereau,48.83314,2.333567,91,96,,,
@@ -39,10 +39,10 @@ Massy-Palaiseau,48.725836,2.261219,31,90,,,
 Palaiseau,48.706564,2.238564,4,89,,,
 Palaiseau-Villebon,48.707685,2.237315,10,92,,,
 Lozère ,48.706121,2.211883,2,91,,,
-Le Guichet,48.704922,2.191428,3,91,,,
-Orsay-Ville,48.697814,2.18206,19,91,,,
-Bures-sur-Yvette,48.698999,2.163892,2,91,,,
-La Hacquinière,48.696564,2.155614,0,91,,,
-Gif-sur-Yvette,48.698305,2.136737,37,83,,,
-Courcelle-sur-Yvette,48.700823,2.099117,8,83,,,
-Saint-Rémy-lès-Chevreuse,48.702862,2.070843,457,86,,,
+Le Guichet,48.704922,2.191428,3,91,Un malaise voyageur,Un train en panne,Une panne de signalisation
+Orsay-Ville,48.697814,2.18206,19,91,Un malaise voyageur,Un train en panne,Travaux
+Bures-sur-Yvette,48.698999,2.163892,2,91,Un malaise voyageur,Un train en panne,Une panne de signalisation
+La Hacquinière,48.696564,2.155614,0,91,Un malaise voyageur,Un train en panne,Une panne de signalisation
+Gif-sur-Yvette,48.698305,2.136737,37,83,Un malaise voyageur,Un train en panne,Une panne de signalisation
+Courcelle-sur-Yvette,48.700823,2.099117,8,83,Un malaise voyageur,Un train en panne,Une panne de signalisation
+Saint-Rémy-lès-Chevreuse,48.702862,2.070843,457,86,Un malaise voyageur,Un train en panne,Une panne de signalisation
