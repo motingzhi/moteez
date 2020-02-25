@@ -250,6 +250,16 @@ function  mousePressed() {
          }
      
     }
+   if( 35< mouseX && 55>mouseX)
+    {
+      if(380< mouseY && 400>mouseY)
+         {
+          
+            switchyear=1;
+        
+         }
+     
+    }
   for( let country of data){
    
   const pix = myMap.latLngToPixel(country.lat, country.lon);
